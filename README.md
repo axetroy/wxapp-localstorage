@@ -6,7 +6,7 @@
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
 [![npm version](https://badge.fury.io/js/wxapp-localstorage.svg)](https://badge.fury.io/js/wxapp-localstorage)
 
-wxapp lib boilerplate for building a wxapp lib
+localstorage implement for WeCHat App
 
 ## Installation
 ```bash
