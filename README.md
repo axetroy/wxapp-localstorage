@@ -18,7 +18,12 @@ npm install wxapp-localstorage --save
 ## Usage
 
 ```javascript
+import localStorage from 'wxapp-localstorage';
 
+localStorage.setItem('key', 'value');
+
+// or
+wx.localStorage.setItem('key','value');
 ```
 
 ## Contributing
