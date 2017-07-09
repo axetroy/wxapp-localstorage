@@ -1,4 +1,6 @@
 # wxapp-localstorage
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/wxapp-localstorage.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/wxapp-localstorage.svg?branch=master)](https://travis-ci.org/axetroy/wxapp-localstorage)
 [![Dependency](https://david-dm.org/axetroy/wxapp-localstorage.svg)](https://david-dm.org/axetroy/wxapp-localstorage)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
