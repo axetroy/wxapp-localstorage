@@ -1,3 +1,7 @@
 <view>
-    <button ontap="">Update storage</button>
+    <view>{{test ? test : ''}}</view>
+    <button bindtap="set">Set Storage</button>
+    <button bindtap="remove">Remove Storage</button>
+    <button bindtap="clear">Clear Storage</button>
+    <button bindtap="get">Get Storage</button>
 </view>
