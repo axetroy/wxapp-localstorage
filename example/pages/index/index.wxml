@@ -1,0 +1,3 @@
+<view>
+    <button ontap="">Update storage</button>
+</view>
