@@ -25,7 +25,7 @@
   "homepage": "https://github.com/axetroy/wxapp-localstorage#readme",
   "devDependencies": {
     "all-contributors-cli": "^4.3.0",
-    "ava": "^0.21.0",
+    "ava": "^0.22.0",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
