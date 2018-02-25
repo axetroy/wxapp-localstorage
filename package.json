@@ -33,7 +33,7 @@
     "babel-preset-flow": "^6.23.0",
     "conventional-changelog": "^1.1.3",
     "gh-pages": "^1.0.0",
-    "webpack": "^3.0.0"
+    "webpack": "^4.0.0"
   },
   "dependencies": {
     "@axetroy/event-emitter.js": "^1.2.4"
